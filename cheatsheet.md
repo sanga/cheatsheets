@@ -11,4 +11,8 @@ ma mark current point as "a"
 "*yy and "+yy copy current line to system clipboard
 leader j = join lines
 :%norm A* insert * to all lines (i.e. run "A*" on all lines)
-:norm 0itim prepend visual selection with "tim"```
+:norm 0itim prepend visual selection with "tim"
+vii select this indentation level
+sab sneak forward to "ab"
+Sab sneak backwards to "ab"
+```
