@@ -1,6 +1,6 @@
-Some of these are down to my particular configuration
-
 ```
+Some of these are down to my particular configuration i.e. this is intended to just be a personal reminder (not useful for anyone else)
+
 $ goto end
 ~ goto first non-ws char
 n next search hit
