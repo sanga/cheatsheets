@@ -1,5 +1,9 @@
-```
+
 Some of these are down to my particular configuration i.e. this is intended to just be a personal reminder (not useful for anyone else)
+
+## Neovim
+
+```
 
 $ goto end
 ~ goto first non-ws char
@@ -17,7 +21,7 @@ sab sneak forward to "ab"
 Sab sneak backwards to "ab"
 ```
 
-# Fish
+## Fish
 
 ```
 Alt+e = open line in $EDITOR for editing
