@@ -16,3 +16,10 @@ vii select this indentation level
 sab sneak forward to "ab"
 Sab sneak backwards to "ab"
 ```
+
+# Fish
+
+```
+Alt+e = open line in $EDITOR for editing
+
+```
