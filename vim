@@ -15,4 +15,4 @@ sab === sneak forward to "ab"
 Sab === sneak backwards to "ab"
 cs"' === change surround from " to '
 ds" === delete surrounding " char
-ysiw] === sound text object ('iw' here) with []
+ysiw] === surround text object ('iw' here) with []
