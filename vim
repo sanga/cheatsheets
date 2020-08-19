@@ -16,3 +16,5 @@ Sab === sneak backwards to "ab"
 cs"' === change surround from " to '
 ds" === delete surrounding " char
 ysiw] === surround text object ('iw' here) with []
+zO === open all child folds at the cursor
+zR === open all folds in the buffer
