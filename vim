@@ -9,6 +9,7 @@ ma === mark current point as "a"
 "+yy === copy current line to system clipboard
 leader j === = join lines
 :%norm A* === insert * to all lines (i.e. run "A*" on all lines)
+:%norm @q === apply the macro 'q' to all lines in the visual selection
 :norm 0itim === prepend visual selection with "tim"
 vii === select this indentation level
 sab === sneak forward to "ab"
@@ -18,3 +19,4 @@ ds" === delete surrounding " char
 ysiw] === surround text object ('iw' here) with []
 zO === open all child folds at the cursor
 zR === open all folds in the buffer
+:sbuffer == open current buffer in a new window
