@@ -10,6 +10,7 @@ ma === mark current point as "a"
 leader j === = join lines
 :%norm A* === insert * to all lines (i.e. run "A*" on all lines)
 :%norm @q === apply the macro 'q' to all lines in the visual selection
+:g/pattern/norm! @q === apply the macro to all lines matching "pattern"
 :norm 0itim === prepend visual selection with "tim"
 vii === select this indentation level
 sab === sneak forward to "ab"
