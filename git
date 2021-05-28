@@ -1,1 +1,2 @@
 git --no-pager diff -p > patch === generate a patch from the current diff
+git diff-tree --no-commit-id --name-only [COMMITISH] === list the files in COMMITISH in a way that can be piped to for example vim
