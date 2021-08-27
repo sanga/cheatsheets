@@ -23,3 +23,4 @@ zR === open all folds in the buffer
 :sbuffer == open current buffer in a new window
 daI == delete indentation level and lines above and below
 gwip == justify the current paragraph
+:g/WORKSPACE\s*$/d == deleteall lines that contain the regexp
