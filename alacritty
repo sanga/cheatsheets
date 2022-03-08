@@ -1,0 +1,2 @@
+ctrl+shift+j === select jira ticket on which to run jira view in another alacritty window
+ctrl+shift+space === start vim mode on scrollback
