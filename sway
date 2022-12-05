@@ -1,2 +1,3 @@
 mod+shift+space === toggle float
 sway rename workspace to new_name = rename current workspace
+mod+shift+m === get keycode from yubikey
