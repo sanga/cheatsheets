@@ -1,5 +1,5 @@
 $ === goto end
-~ === goto first non-ws char
+_ === goto first non-ws char
 n === next search hit
 N === prev search hit
 d/rails === delete until the text "rails"
