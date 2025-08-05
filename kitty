@@ -1,1 +1,2 @@
 ctrl+alt+mouse === column select
+printf "\e]9;%s\e\\" "hello there" === send desktop notification
